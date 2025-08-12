@@ -1,0 +1,4 @@
+(sym_lib_table
+  (version 7)
+  (lib (name "lomalkin_kicad_symbols")(type "Legacy")(uri "${LOMALKIN_KICAD_LIBS}/symbols/lomalkin_kicad_symbols.lib")(options "")(descr ""))
+)

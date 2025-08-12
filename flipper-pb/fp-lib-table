@@ -1,0 +1,4 @@
+(fp_lib_table
+  (version 7)
+  (lib (name "lomalkin_kicad_footprints")(type "KiCad")(uri "${LOMALKIN_KICAD_LIBS}/lomalkin_kicad_footprints.pretty")(options "")(descr ""))
+)
