@@ -1,4 +1,5 @@
 (sym_lib_table
   (version 7)
-  (lib (name "lomalkin_kicad_symbols")(type "Legacy")(uri "${LOMALKIN_KICAD_LIBS}/symbols/lomalkin_kicad_symbols.lib")(options "")(descr ""))
+  (lib (name "pmod")(type "Legacy")(uri "C:/source/kicad-pmod/pmod.lib")(options "")(descr ""))
+  (lib (name "lomalkin_kicad_symbols")(type "Legacy")(uri "C:/source/lomalkin_kicad_libs/symbols/lomalkin_kicad_symbols.lib")(options "")(descr ""))
 )
