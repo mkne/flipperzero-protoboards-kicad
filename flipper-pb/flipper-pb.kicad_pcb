@@ -14637,7 +14637,7 @@
 			)
 		)
 		(fp_text user "GND"
-			(at -3.6 3.76 180)
+			(at -3.6 3.76 0)
 			(unlocked yes)
 			(layer "B.SilkS")
 			(uuid "6095bccc-fc61-4ed4-bfd7-d907da006618")
@@ -14650,7 +14650,7 @@
 			)
 		)
 		(fp_text user "VCC"
-			(at -3.6 6.67 180)
+			(at -3.6 6.67 0)
 			(unlocked yes)
 			(layer "B.SilkS")
 			(uuid "68e9d827-4bde-499a-aa0a-ab2681d7ec19")
@@ -14852,6 +14852,17 @@
 			)
 			(rotate
 				(xyz 0 0 180)
+			)
+		)
+		(model "${KICAD9_3DMODEL_DIR}/Connector_PinHeader_2.54mm.3dshapes/PinHeader_2x06_P2.54mm_Horizontal.wrl"
+			(offset
+				(xyz 1.25 -6.35 0)
+			)
+			(scale
+				(xyz 1 1 1)
+			)
+			(rotate
+				(xyz -0 -0 -180)
 			)
 		)
 	)
@@ -15558,7 +15569,7 @@
 			)
 		)
 		(fp_text user "VCC"
-			(at -3.6 6.35 180)
+			(at -3.6 6.35 0)
 			(unlocked yes)
 			(layer "B.SilkS")
 			(uuid "b633d179-a3d9-485f-aaec-8fdb51a7b13b")
@@ -15760,6 +15771,17 @@
 			)
 			(rotate
 				(xyz 0 0 180)
+			)
+		)
+		(model "${KICAD9_3DMODEL_DIR}/Connector_PinHeader_2.54mm.3dshapes/PinHeader_2x06_P2.54mm_Horizontal.wrl"
+			(offset
+				(xyz 1.25 -6.35 0)
+			)
+			(scale
+				(xyz 1 1 1)
+			)
+			(rotate
+				(xyz -0 -0 -180)
 			)
 		)
 	)
@@ -17646,7 +17668,7 @@
 			)
 		)
 	)
-	(gr_text "v1"
+	(gr_text "v1.1"
 		(at 128.74752 57.01284 0)
 		(layer "F.SilkS")
 		(uuid "00000000-0000-0000-0000-00005fec1d59")
@@ -17736,7 +17758,7 @@
 		)
 	)
 	(gr_text "LEDs\nUART"
-		(at 123.13 59.63 90)
+		(at 123 59.2 90)
 		(layer "F.SilkS")
 		(uuid "00000000-0000-0000-0000-00005ff813ab")
 		(effects
@@ -17753,7 +17775,7 @@
 		(uuid "00000000-0000-0000-0000-00005ff81cfc")
 		(effects
 			(font
-				(size 1 1)
+				(size 1.6 1)
 				(thickness 0.153)
 			)
 			(justify left)
@@ -17777,7 +17799,7 @@
 		(uuid "65d3df1e-1a06-4266-9ffd-78783db631ec")
 		(effects
 			(font
-				(size 1 1)
+				(size 1.7 1)
 				(thickness 0.153)
 			)
 			(justify left)
